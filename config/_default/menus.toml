@@ -34,3 +34,8 @@
    name = "CV"
    url = "files/cv.pdf"
    weight = 70
+
+[[main]]
+   name = "Practice classifier notebook"
+   url = "files/practice_classification.ipynb"
+   weight = 80
