@@ -5,8 +5,9 @@ title: Assignment1
 
 # Assignment1 
 
-## a. Generate 20 data pairs (X, Y) using y = sin(2 * pi * X) + N 
+{{% staticref "files/dm_assignment1.ipynb" "newtab" %}}Download my files{{% /staticref %}}
 
+## a. Generate 20 data pairs (X, Y) using y = sin(2 * pi * X) + N 
 
 
 ```
