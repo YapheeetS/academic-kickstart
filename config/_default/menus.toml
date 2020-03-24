@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-# [[main]]
-#   name = "Posts"
-#   url = "#posts"
-#   weight = 20
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 20
 
 [[main]]
   name = "Projects"
@@ -35,7 +35,7 @@
    url = "files/cv.pdf"
    weight = 70
 
-[[main]]
-   name = "Practice classifier notebook"
-   url = "files/practice_classification.ipynb"
-   weight = 80
+# [[main]]
+#    name = "Practice classifier notebook"
+#    url = "files/practice_classification.ipynb"
+#    weight = 80
