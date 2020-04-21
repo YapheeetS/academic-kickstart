@@ -5,7 +5,7 @@ title: Assignment2
 
 # Assignment2
 
-{{% staticref "files/dm_assignment1.ipynb" "newtab" %}}Download my files{{% /staticref %}}
+{{% staticref "files/dm_assignment2.ipynb" "newtab" %}}Download my files{{% /staticref %}}
 
 
 ## Load data

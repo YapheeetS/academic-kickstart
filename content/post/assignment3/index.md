@@ -5,6 +5,8 @@ title: Assignment3
 
 # Haojin Liao 1001778275
 
+{{% staticref "files/dm_assignment3.ipynb" "newtab" %}}Download my files{{% /staticref %}}
+
 ## Data preprocess
 
 
