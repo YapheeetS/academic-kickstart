@@ -1,3 +1,9 @@
+---
+date: 2020-5-1
+title: Term project
+---
+
+{{% staticref "files/term_project.ipynb" "newtab" %}}Download my files{{% /staticref %}}
 
 # Data Mining Term Project
 
