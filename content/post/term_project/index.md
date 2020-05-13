@@ -13,9 +13,11 @@ title: Term project
 
 ## Demo Link: [http://liaohaojin.pythonanywhere.com/](http://liaohaojin.pythonanywhere.com/)
 
-## Github Repo Link [https://github.com/YapheeetS/dm_term_project](https://github.com/YapheeetS/dm_term_project)
+## Github Repo Link: [https://github.com/YapheeetS/dm_term_project](https://github.com/YapheeetS/dm_term_project)
 
-## Video Link [https://youtu.be/aBTan4dVh04](https://youtu.be/aBTan4dVh04)
+## Video Link: [https://youtu.be/aBTan4dVh04](https://youtu.be/aBTan4dVh04)
+
+## Kaggle Link: [https://www.kaggle.com/jameee/term-project](https://www.kaggle.com/jameee/term-project)
 
 
 ## Environment
